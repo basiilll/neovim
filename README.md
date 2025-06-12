@@ -1,2 +1,2 @@
 # neovim
-neovim config 6/25
+first version on 13-06-2025
